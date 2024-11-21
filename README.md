@@ -21,6 +21,6 @@
     - CAN 
     - RS485
     - USB (For Data Transfer only)
-Dedicated Memory for Data logging
-Accelerometer
-Pressure sensor
+- Dedicated Memory for Data logging
+- Accelerometer
+- Pressure sensor

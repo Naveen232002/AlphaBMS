@@ -7,15 +7,15 @@
  The Firmware for this design is yet to be developed.
 
 # Configuration
- upto 16S series (60V)
- upto 200A (Need to validate)
+ - upto 16S series (60V)
+ - upto 200A (Need to validate)
 
 # Features
- 12 Temperature sensors
- Accurate Voltage and Current Measurement *Ideally (Depends on Firmware)
- IoT features 
-  - WiFi
-  - Bluetooth
+ - 12 Temperature sensors
+ - Accurate Voltage and Current Measurement *Ideally (Depends on Firmware)
+ - IoT features 
+   - WiFi
+   - Bluetooth
 
 # Communication Protocols
     - CAN 

@@ -16,7 +16,8 @@
  IoT features 
   - WiFi
   - Bluetooth
-Communication Protocols
+
+# Communication Protocols
     - CAN 
     - RS485
     - USB (For Data Transfer only)

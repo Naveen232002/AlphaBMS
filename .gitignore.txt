@@ -1,0 +1,55 @@
+# Ignore Backup and Autosave Files
+*.PrjPCBStructure
+*.Backup*
+*.Autosave*
+*.~*
+*.tmp
+
+# Ignore Output and Generated Files
+*.OutJob
+*.SchDoc.GraphicSettings
+*.net
+*.cmp
+*.txt
+*.int
+*.html
+*.csv
+*.pdf
+*.zip
+*.xls*
+*.doc*
+*.log
+*.gbr
+*.gerber
+*.rep
+*.ipc_d*
+
+# Ignore Simulation and Analysis Files
+*.simdata
+*.dsn
+*.expt
+*.emf
+*.HypRpt
+
+# Ignore Compiled Files
+*.cproj
+*.elf
+*.hex
+*.bin
+*.obj
+*.asm
+*.map
+*.lst
+
+# Ignore Library and Configuration Files
+*.db
+*.ini
+*.ldb
+*.cfg
+*.prjpcbstate
+.history/
+
+# Ignore Folder-Specific Metadata
+__Previews/
+__Snapshots/
+.PCBDoc.versions/

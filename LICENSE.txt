@@ -1,0 +1,16 @@
+Custom License
+
+Copyright (c) 2024 Naveenkrishna V
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this embedded system hardware design, associated firmware, and documentation files (the "System"), to deal in the System without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the System, and to permit persons to whom the System is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the System.
+
+WARNING AND DISCLAIMER:
+
+This System is provided "as is," without any warranties or guarantees of safety, reliability, or functionality.
+The System may be used in non-critical environments only. Any deployment in critical systems (such as life support, aerospace, or nuclear facilities) is strictly prohibited unless thoroughly tested and certified independently by the user.
+The authors shall not be held responsible for any harm, injury, damage, or financial loss arising from the use or misuse of this System.
+ASSUMPTION OF RISK: By using this System, you agree that its use is entirely at your own risk. You are responsible for evaluating and mitigating any risks associated with its application in hardware, software, or combined systems.
+
+THE SYSTEM IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SYSTEM OR THE USE OR OTHER DEALINGS IN THE SYSTEM.
